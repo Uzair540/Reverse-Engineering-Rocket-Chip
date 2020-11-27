@@ -1,0 +1,59 @@
+https://www.geeksforgeeks.org/translation-lookaside-buffer-tlb-in-paging/
+//Description for TLB
+
+https://www.youtube.com/watch?v=kEj-m3YuGa4&feature=youtu.be
+//Description for Priority Encoder
+
+https://www.sciencedirect.com/topics/computer-science/branch-target-buffer
+//Description of BTB
+
+https://www.youtube.com/watch?v=yk-U6qqeGE0
+//Description of BHB
+
+https://www.embecosm.com/appnotes/ean7/html/ch04s06s01.html
+//Description of NPC
+
+https://people.cs.pitt.edu/~don/coe1502/current/Unit4a/Unit4a.html
+//Description of CSRs
+
+https://www.student-circuit.com/learning/year3/embedded-systems/what-are-three-types-of-cache-memory/
+//Description of Cache
+
+https://www.sciencedirect.com/topics/computer-science/scratchpad-memory
+//Description of Scratchpad memory (SPRAM)
+
+https://www.youtube.com/watch?v=LKK7U_gF744
+//Description of Controm Flow Integerity (CFI)
+
+https://techpubs.jurassic.nl/manuals/hdwr/developer/R10K_UM/sgi_html/t5.Ver.2.0.book_353.html#:~:text=Three%20types%20of%20TLB%20exceptions%20can%20occur%3A&text=TLB%20Invalid%20occurs%20when%20a,the%20entry%20is%20not%20writable).
+//Description of TLB Exceptions
+
+https://www.youtube.com/watch?v=Z2T2vnyZl0o
+//Description for TLB
+
+https://www.allaboutcircuits.com/technical-articles/introduction-to-the-advanced-microcontroller-bus-architecture/
+//Description for AMBA
+
+https://www.allaboutcircuits.com/technical-articles/introduction-to-the-advanced-extensible-interface-axi/
+//Description for AXI
+
+https://developer.arm.com/documentation/ddi0344/c/programmer-s-model/exceptions/aborts
+//Description regardng aborts and Prefetch aborts
+
+https://chromitem-soc.readthedocs.io/en/latest/clint.html
+//Description regardng CLINT
+
+https://whatis.techtarget.com/definition/memory-coherence
+//Description regardng Coherent Memory
+
+https://www.quora.com/What-is-the-difference-between-SISD-and-SIMD
+//Description regarding SISD and SIMD
+
+https://www.slideshare.net/ManashKumarMondal/superscalar-processor
+//Description of SuperScalar processor
+
+https://docs.oracle.com/cd/E26505_01/html/E26506/glmqp.html
+//Description of Position Independant Code
+
+https://github.com/sifive/sifive-blocks/tree/master/src/main/scala/devices
+//Description of adding GPIOS with rocket chip
